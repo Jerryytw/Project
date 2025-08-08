@@ -13,4 +13,4 @@ Dataset source: [Kaggle - Retail Fashion Boutique Data Sales Analytics 2025](htt
   - Discount impact on ratings
 
 ## Dashboard Preview
-![Dashboard Screenshot](images/Interactive%20Dashboard%20screenshot.png)
+![Dashboard Screenshot](images/Interactive_Dashboard_screenshot.png)
