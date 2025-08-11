@@ -19,5 +19,7 @@ It covers the full workflow: **data extraction → analysis in MySQL → Excel d
 - Microsoft Excel (Pivot Tables, Charts, Slicers)
 - macOs
 
-- 
+## 📊 Results Preview
+![ER Diagram](images/sakila_er_diagram.png)
+![SQL Execution](images/sql_execution_example.png)
 
