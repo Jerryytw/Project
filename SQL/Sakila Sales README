@@ -1,1 +1,21 @@
 
+# Sakila Store Sales & Performance Analysis
+
+This project demonstrates end-to-end SQL analysis skills using the **Sakila Sample Database**, covering data extraction, transformation, and performance analytics for store sales.  
+It also includes an **Excel reporting workflow** for visualizing the results.
+
+## 📊 Analysis Topics
+The SQL scripts answer real-world business questions, such as:
+1. **Total Sales by Store** – Compare revenue across stores.
+2. **Top 10 Customers by Spending** – Identify key revenue contributors.
+3. **Monthly Revenue Trends** – Detect seasonal or monthly patterns.
+4. **Category Sales Performance** – Measure product category contribution to total sales.
+5. **Staff Performance** – Evaluate staff revenue generation.
+6. **Film Rental Patterns** – Analyze demand for movies by rating, category, and length.
+
+## 🛠️ Tools & Environment
+- **Database**: MySQL 8.0 (Sakila Sample Database)
+- **SQL Editor**: MySQL Workbench
+- **Reporting**: Microsoft Excel (Pivot Tables, Charts, Slicers)
+- **OS**: macOS
+
