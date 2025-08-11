@@ -21,7 +21,8 @@ It covers the full workflow: **data extraction → analysis in MySQL → Excel d
 
 ## 📊 Results Preview
 
-![ER Diagram](../Images/Sakila_er_diagram.png)
+![ER Diagram](../Images/Sakila%20_er_diagram.png)
+
 
 ![Query Example](../Images/Sakila_query_execution_example.png)
 
