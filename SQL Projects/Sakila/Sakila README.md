@@ -20,6 +20,8 @@ It covers the full workflow: **data extraction → analysis in MySQL → Excel d
 - macOs
 
 ## 📊 Results Preview
-![ER Diagram](SQL Projects/Images/Sakila _er_diagram.png)
-![SQL Execution](images/sql_execution_example.png)
+
+(![ER Diagram](Images/Sakila_er_diagram.png)
+)
+![SQL Execution](Images/sql_execution_example.png)
 
