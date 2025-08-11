@@ -19,3 +19,13 @@ The SQL scripts answer real-world business questions, such as:
 - **Reporting**: Microsoft Excel (Pivot Tables, Charts, Slicers)
 - **OS**: macOS
 
+## 📊 Results Preview
+
+### 1. ER Diagram (Sales-Related Tables)
+Below is the filtered ER diagram showing the key tables for sales analysis.
+![ER Diagram](images/sakila_er_diagram.png)
+
+### 2. SQL Code Execution in MySQL Workbench
+Example of running analysis queries in MySQL Workbench.
+![SQL Execution](images/sql_execution_example.png)
+
