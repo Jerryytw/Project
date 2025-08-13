@@ -39,7 +39,7 @@ This dataset contains **300,000+ retail transaction records**, covering customer
 ## Visualization Dashboard (Tableau)
 
 **Dashboard Overview**  
-![Tableau Dashboard](images/tableau_dashboard.png)  
+![Tableau Dashboard](Image/Dashboard_overview.png)  
 
 ---
 
