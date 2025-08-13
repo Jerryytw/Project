@@ -46,7 +46,7 @@ This dataset contains **300,000+ retail transaction records**, covering customer
 ## Code Execution Example
 
 **Python Script Output**  
-![Code Execution Screenshot](images/code_execution.png)  
+![Code Execution Screenshot](Image/code_execution.png)  
 
 ---
 
