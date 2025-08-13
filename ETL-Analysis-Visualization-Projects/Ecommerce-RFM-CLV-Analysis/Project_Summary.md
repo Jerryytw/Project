@@ -15,15 +15,17 @@ This project demonstrates an **end-to-end customer analytics workflow** for an e
 ## Dataset Description
 **Source:** [Kaggle – Retail Analysis Large Dataset](https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset/data)  
 
-This dataset contains **300,000+ retail transaction records**, covering customer demographics, purchase behavior, and product details.
-
-### Key Features
-- **Customer Information:** ID, name, email, phone, address, city, state, zipcode, country, age, gender, and customer segment (Premium, Regular, New).  
-- **Transaction Details:** Transaction ID, last purchase date, total purchases, amount spent, total purchase amount, feedback, shipping method, payment method, order status.  
-- **Product Information:** Product category, brand, and type (e.g., electronics, clothing, grocery, books, home decor).  
-- **Geographic Information:** City, state, country (USA, UK, Canada, Australia, Germany).  
-- **Temporal Information:** Year, month, date, and time for purchase events, enabling time-series trend analysis.  
-
+Exploratory Analysis
+The dataset contains 293,911 rows and 30 columns, covering customer demographics, transactions, and product details.
+Top cities by order volume: Chicago (21,109), Portsmouth (19,648), San Francisco (11,938), Frankfurt (9,947), Boston (9,187).
+Top product categories by revenue: Electronics (17.72M), Grocery (16.63M), Clothing (13.58M), Books (13.57M), Home Decor (13.49M).
+Gender distribution: 62.18% Male, 37.82% Female.
+Numerical summary:
+Average order amount: $255.15 (min $10.00, max $499.99)
+Average total spend per customer: $1,367.69 (max $4,999.63)
+Average customer age: 35.46 years (range 18–70)
+Ratings range: 1–5, average 3.16
+This overview highlights high-revenue product categories, key customer demographics, and major markets, which inform later RFM and CLV segmentation.
 ---
 
 ## Data Processing and Analysis Steps
