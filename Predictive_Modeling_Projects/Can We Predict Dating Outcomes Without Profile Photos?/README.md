@@ -47,11 +47,16 @@ All models performed close to random guessing on the 10 equally-distributed clas
 
 ### Confusion Matrix (Logistic Regression)
 
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](image/Logistic_Regression_Confusion_Matrix.png)
 
-### Macro-F1 Comparison
+### Confusion Matrix (Decision Tree)
 
-![F1 Comparison](assets/f1_comparison.png)
+![Confusion Matrix](image/Decision_Tree_Confusion_Matrix.png)
+
+### Confusion Matrix (MLP)
+
+![Confusion Matrix](image/MLP_Confusion_Matrix.png)
+
 
 ## Interpretation
 
@@ -65,6 +70,5 @@ In dating apps, visual impressions play a central role. Profile photos are often
 - Incorporate chat or text interaction patterns
 - Explore time-series behavior or latent trait modeling
 
-## File Structure
 
 
