@@ -34,6 +34,15 @@ To determine whether user demographics and behavior metrics can predict final ma
 - **Modeling & Evaluation**:
   - Multi-class classification using logistic regression (L2), XGBoost, and deep learning
   - Evaluated using accuracy and macro-F1 score
+ 
+## EDA
+
+### Correlation Heat Map(Numeric Features)
+![Correlation_Heat_Map](image/Numeric_Feature_Correlation_Outcome.png)
+
+### MatcH Outcome Distribution (Catagorical Feature)
+![Match_Outcome](image/Match_outcome_Distribution.png)
+
 
 ## Results
 
@@ -55,7 +64,7 @@ All models performed close to random guessing on the 10 equally-distributed clas
 
 ### Confusion Matrix (MLP)
 
-![Confusion Matrix](image/MLP_Confusion_Matrix.png)
+![Confusion Matrix](image/MLP_Decision_Matrix.png)
 
 
 ## Interpretation
